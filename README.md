@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Once you push it, it keeps going under its own momentum.
+<div align="center">
+		<img style="{text-align: center}" src="https://github.com/farminf/farminf/raw/master/peaceful_warrior.png?sanitize=true">
+</div>
 <!--
 **farminf/farminf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
