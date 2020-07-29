@@ -1,4 +1,4 @@
-### Once you push it, it keeps going under its own momentum.
+
 <div align="center">
 		<img style="{text-align: center}" src="https://github.com/farminf/farminf/raw/master/peaceful_warrior.png?sanitize=true">
 </div>
