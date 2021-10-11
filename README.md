@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
 		<img style="{text-align: center}" src="https://github.com/farminf/farminf/raw/master/peaceful_warrior.png?sanitize=true">
-</div>
+</div> -->
 <!--
 **farminf/farminf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
